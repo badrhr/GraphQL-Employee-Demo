@@ -1,0 +1,5 @@
+type EmployeeDto{
+    name :  String
+    email:String
+    salary: Float
+}

@@ -1,0 +1,3 @@
+type Query{
+    getEmployeeById(id: Float) : EmployeeDto
+}

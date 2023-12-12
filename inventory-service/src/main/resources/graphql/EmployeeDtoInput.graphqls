@@ -1,0 +1,5 @@
+input EmployeeDtoInput{
+    name :  String
+    email:String
+    salary: Float
+}
